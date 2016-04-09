@@ -9,9 +9,9 @@ Install the dependencies:
 
     npm i
 
-Create a `build folder`:
+Run the whole thing:
 
-    mkdir build
+    npm run build
 
 ## Next steps
 
